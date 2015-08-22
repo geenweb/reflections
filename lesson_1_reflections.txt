@@ -1,0 +1,13 @@
+If I keep working versions of my program, I can diff a newer non-work version to see what has changed.
+
+Keeping a history of revisions of a programmer could make me more efficient should I make changes, but at some point later decide I want to chang some of the code back.
+
+Auto commits ensure that a commit are made, although they may be too small, or incomplete logically. Manual commits ensure making commits that make sense, but you need the discipline to do them.
+
+Git commits multiple files (a repository) since it designed to handle program files in which a programatic change may very well affect multiple files. Google docs on the other hand is not designed as a programming version control system. It has individual unrelated files in mind.
+
+git log lists all of the repository commits that have been made. git diff can then be used to compare various commits tosee the actual line changes.
+
+Since I can use versioning to find my errors, and I can revert back, I can try ideas without worry.
+
+
