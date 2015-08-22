@@ -1,0 +1,5 @@
+
+When I do a git init it creates metatdata in the directory in a subdirectory names .git. This is needed by git to maintain version control.
+
+The staging area holds files ready for commit to the repository. It differes from the working area in that specific files have been called out as ones to be put in version control. They are not yet in the repository however.
+
