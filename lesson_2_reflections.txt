@@ -3,3 +3,14 @@ When I do a git init it creates metatdata in the directory in a subdirectory nam
 
 The staging area holds files ready for commit to the repository. It differes from the working area in that specific files have been called out as ones to be put in version control. They are not yet in the repository however.
 
+by using git diff the working and staging areas can be compared to ensure only one lagic change per commit has been made.
+
+Branches would be useful to try a completely different idea in a program, or make a unique version for some special reason.
+
+Digrams are the graphical representation of branches. git log --graph branchA branchB
+
+Merging the two branches together merged the changes made to both branches into a new head. This joins the separate branches back together.
+
+Automatic merges are big time savers, but could make a mistake in a complex situation. Manual is necessary in these situations.
+
+

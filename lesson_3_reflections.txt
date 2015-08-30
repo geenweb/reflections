@@ -1,1 +1,5 @@
 When I'm working as part of a team on a project. When I want to participate in anothers work, or share my work.
+
+Perhaps other people on the team are making changes that I will decide I do not want. I may decide I want to branch. If everything is auto-pulled I will get their changes without the option to examine them.
+
+
