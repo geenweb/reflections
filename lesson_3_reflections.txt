@@ -2,4 +2,5 @@ When I'm working as part of a team on a project. When I want to participate in a
 
 Perhaps other people on the team are making changes that I will decide I do not want. I may decide I want to branch. If everything is auto-pulled I will get their changes without the option to examine them.
 
+Forks create a copry of a repository from GitHub to GitHub. Clone creates a copy of a repository from GitHub to a local computer, or from a local computer to another directory on that local computer. A branch creates a new head off of a series of commits.
 
