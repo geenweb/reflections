@@ -4,3 +4,6 @@ Perhaps other people on the team are making changes that I will decide I do not 
 
 Forks create a copry of a repository from GitHub to GitHub. Clone creates a copy of a repository from GitHub to a local computer, or from a local computer to another directory on that local computer. A branch creates a new head off of a series of commits.
 
+Having a copy of the last known state of the remote stored locally allows you to work offline with the most up to date source code.
+
+
